@@ -6,13 +6,13 @@ Viva is an accident emergency-response platform designed to connect bystanders, 
 
 **See an accident? Snap. Send. Save.**
 
-## 🚨 The Problem
+# The Problem
 
 During road accidents and emergencies, delays in communication and difficulty reaching the right emergency services can cost valuable time. Bystanders may not know whom to contact or which hospital is nearby.
 
 Viva aims to simplify the first step towards getting help.
 
-## 💡 Our Solution
+# Our Solution
 
 Viva provides a connected interface where users can report an accident, share their location, and initiate an emergency-response workflow.
 
@@ -49,7 +49,7 @@ A world where no life is lost simply because help could not reach in time.
 
 We envision a connected emergency-response ecosystem where technology becomes a bridge between an accident and assistance.
 
-## 🛠️ Technology Used
+# Technology Used
 
 - HTML5
 - CSS3
@@ -61,7 +61,7 @@ We envision a connected emergency-response ecosystem where technology becomes a 
 - QR Code Generator
 - AI-based image classification integration
 
-## ▶️ Getting Started
+# Getting Started
 
 1. Clone this repository:
 
@@ -77,13 +77,13 @@ We envision a connected emergency-response ecosystem where technology becomes a 
 
 **Note:** Camera and GPS features generally require HTTPS or localhost.
 
-## ⚠️ Important Disclaimer
+# Important Disclaimer
 
 Viva is currently a prototype demonstrating an emergency-response workflow. Hospital notifications, police verification, ambulance dispatch, and estimated arrival information shown in the demo are not proof of live integration with actual emergency services.
 
 Do not rely on this prototype for real emergencies. Contact the official emergency number **112** in India.
 
-## 💙 Why Viva?
+# Why Viva?
 
 Because in an emergency, people shouldn't have to waste precious moments figuring out where to turn.
 
