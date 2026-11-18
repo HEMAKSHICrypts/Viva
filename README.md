@@ -16,7 +16,7 @@ Viva aims to simplify the first step towards getting help.
 
 Viva provides a connected interface where users can report an accident, share their location, and initiate an emergency-response workflow.
 
-## ⚡ Key Features
+# Key Features
 
 - **One-Tap SOS:** Quickly initiate an emergency alert.
 - **Accident Photo Reporting:** Capture or upload an accident image.
@@ -30,7 +30,7 @@ Viva provides a connected interface where users can report an accident, share th
 - **Emergency Helpline:** Quick access to India's emergency number, 112.
 - **No Login Required:** Access the reporting interface without creating an account.
 
-## 🔄 How Viva Works
+# How Viva Works
 
 1. A bystander opens Viva after witnessing an accident.
 2. They trigger SOS or submit an accident photo.
@@ -39,7 +39,7 @@ Viva provides a connected interface where users can report an accident, share th
 5. Nearby hospitals and ambulance information are displayed in the dispatch flow.
 6. The dashboards provide a view of the incident and response status.
 
-## 🎯 Our Mission
+# Our Mission
 
 To make emergency reporting simpler, faster, and more accessible by connecting people and emergency-response services through technology.
 
